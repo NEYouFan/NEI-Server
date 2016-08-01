@@ -1,0 +1,9 @@
+{
+    "name": "auto-11356",
+    "version": "0.0.1",
+    "dependencies": {
+        "express-freemarker": ">=0.1.3",
+        "nej": "master",
+        "regularjs": ">=0.3.0"
+    }
+}

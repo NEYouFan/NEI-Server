@@ -1,0 +1,13 @@
+{
+    "message": "5MddQ",
+    "code": "200",
+    "result": {
+        "access": "1",
+        "comment": "2",
+        "leave": "0",
+        "shortMsg": "1",
+        "verification": true,
+        "quote": true,
+        "frame": true
+    }
+}

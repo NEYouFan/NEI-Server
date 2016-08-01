@@ -1,0 +1,36 @@
+{
+  "name": "NEI-Server",
+  "version": "0.0.1",
+  "description": "this is mock server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./bin/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEYouFan/NEI-Server.git"
+  },
+  "keywords": [
+    "mock",
+    "server"
+  ],
+  "author": "june_01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NEYouFan/NEI-Server/issues"
+  },
+  "homepage": "https://github.com/NEYouFan/NEI-Server#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-velocity": "^1.0.0",
+    "http-proxy": "^1.13.2",
+    "node-fmpp": "latest",
+    "path-to-regexp": "^1.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.3.0"
+  }
+}
